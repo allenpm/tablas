@@ -840,6 +840,7 @@ tablaSeis:
 
 finFuncion:
 		;aca pasa al main
+		ret
 		
     mostrarTablas endp
 
